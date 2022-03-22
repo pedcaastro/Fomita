@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153409795635",
+    "project_id": "itafoods-project1",
+    "storage_bucket": "itafoods-project1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153409795635:android:aa223807303448219ad546",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153409795635-ni4vglkd9otc2b0epep6n6u9hl7t43ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwx6btEALldo0WXCCTz8GIyVc2FzKAXW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153409795635-ni4vglkd9otc2b0epep6n6u9hl7t43ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
